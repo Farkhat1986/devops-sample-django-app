@@ -5,7 +5,7 @@
 <br>
 <h3></h3>
 
-Sample Python application on Django with PostgreSQL database.
+Sample Python application on Django with PostgreSQL database
 
 <h3>Requirements</h3>
 
